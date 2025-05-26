@@ -29,3 +29,4 @@ match codigo:
 
     case _:
         print("Código inválido. Por favor, tente novamente.")
+        
